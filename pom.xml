@@ -10,10 +10,10 @@
 		<relativePath />
 	</parent>
 	<groupId>com.valentino</groupId>
-	<artifactId>spring-boot-kafka-cassandra-example</artifactId>
+	<artifactId>spring-boot-maven-example</artifactId>
 	<version>0.0.1</version>
-	<name>spring-boot-kafka-cassandra-example</name>
-	<description>spring-boot-kafka-cassandra-example</description>
+	<name>spring-boot-maven-example</name>
+	<description>spring-boot-maven-example</description>
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.0</spring-cloud.version>

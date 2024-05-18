@@ -1,8 +1,7 @@
-package com.valentino.controller;
+package com.valentino.example.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.valentino.example.controller.HelloController;
 import com.valentino.example.dto.HelloResponseDto;
 import com.valentino.example.service.HelloService;
 import org.junit.jupiter.api.Test;

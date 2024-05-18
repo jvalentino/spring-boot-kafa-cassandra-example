@@ -1,9 +1,8 @@
-package com.valentino.service;
+package com.valentino.example.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import com.valentino.example.dto.HelloResponseDto;
-import com.valentino.example.service.HelloService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
